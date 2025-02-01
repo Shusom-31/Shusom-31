@@ -8,21 +8,20 @@
 
  What I Do:
 -----------------------------
-💻 Software Development – Passionate about creating innovative web applications.
-
-🤖 AI & Machine Learning – Exploring AI-powered features for real-world applications.
+- Software Development – Passionate about creating innovative web applications.
+- AI & Machine Learning – Exploring AI-powered features for real-world applications.
 
  My Skill:
 -----------------------------
--*Languages*: C, C++, java, python
+- *Languages*: C, C++, java, python
 
--*Web Development*: HTML, CSS
+- *Web Development*: HTML, CSS
 
--*AI & ML*: OpenAI API, Groq, phidata, langchain, hugging face api, R studio
+- *AI & ML*: OpenAI API, Groq, phidata, langchain, hugging face api, R studio
 
--*Databases*: MySQL
+- *Databases*: MySQL
 
--*Design*: Canva,Figma
+- *Design*: Canva,Figma
 
 
 
