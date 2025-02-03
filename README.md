@@ -17,7 +17,7 @@
 
 - *Web Development*: HTML, CSS
 
-- *AI & ML*: OpenAI API, Groq, phidata, langchain, hugging face api, R studio
+- *AI & ML*: OpenAI API, Groq, phidata, langchain, hugging face , R studio
 
 - *Databases*: MySQL
 
