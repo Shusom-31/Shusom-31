@@ -19,7 +19,7 @@
 
 - *AI & ML*: OpenAI API, Groq, phidata, langchain, hugging face , R studio
 
-- *Databases*: MySQL
+- *Databases*: MySQL,Postgres
 
 - *Design*: Canva,Figma
 
