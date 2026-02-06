@@ -1,39 +1,73 @@
+<h1 align="center">Hi 👋, I'm Shahriar Ali Shusom</h1>
+<h3 align="center">Junior Software Engineer | AI & Backend</h3>
 
-<h1 align="center">Hi 😊, I'm Shusom</h1>
+---
 
+### 👨‍💻 About Me
+I'm **Shahriar Ali Shusom**, a **Junior Software Engineer** and **Software Engineering graduate (Data Science major)** from **Daffodil International University (DIU)**.  
+I specialize in building **AI-powered backend systems**, **RAG pipelines**, and **data-driven applications**. I enjoy working on real-world problems involving **AI agents, scalable APIs, and data pipelines**.
 
- About Me
-------------------------------
- I'm Shahriar Ali Shusom, a Software Engineering student at Daffodil International University (DIU). I have a passion for building AI-powered applications and developing software solutions that make an impact.
+---
 
- What I Do:
------------------------------
-- Software Development – Passionate about creating innovative web applications.
-- AI & Machine Learning – Exploring AI-powered features for real-world applications.
+### 🚀 What I Do
+- **Backend Development:** Building scalable backend services using FastAPI & Flask  
+- **AI Engineering:** Developing AI Agents, RAG-based systems, and intelligent APIs  
+- **Data Engineering:** Working with ELT pipelines, large-scale data processing, and analytics dashboards  
 
- My Skill:
------------------------------
-- *Languages*: C, C++, java, python
+---
 
-- *Web Development*: HTML, CSS
+## 🛠️ Technical Skills
 
-- *AI & ML*: OpenAI API, Groq, phidata, langchain, hugging face , R studio
+### 🔹 Backend & APIs
+- Python, FastAPI, Flask  
+- REST API Design & **Service-to-Service Integration**  
+- ORM: SQLAlchemy, SQLModel  
+- API Testing: Postman  
 
-- *Databases*: MySQL,Postgres
+### 🎨 Frontend
+- HTML, CSS  
+- Bootstrap, Tailwind CSS  
 
-- *Design*: Canva,Figma
+### 🤖 AI & Intelligent Systems
+- AI Agents  
+- Retrieval-Augmented Generation (RAG)  
+- Prompt Engineering  
+- Model Context Protocol (MCP)  
+- Semantic Search (SentenceTransformers)  
+- Vector Databases: LanceDB, Qdrant  
 
+### 🗄️ Databases & Caching
+- PostgreSQL  
+- Redis  
+- Vector Databases  
 
+### ⚙️ Async & Background Processing
+- Celery  
+- Redis Queue  
+- Task Scheduling  
 
- Connect With Me:
------------------------------
-*LinkedIn*: www.linkedin.com/in/shahriar-ali-shusom-6b1896260
+### 🚀 DevOps & Infrastructure
+- Docker & Docker Compose  
+- Monolithic Backend Architecture  
+- Environment-based Deployment  
 
-*Email*: shahriaralishusom@gmail.com
+### 📊 Data Engineering
+- Airbyte (ELT Pipelines)  
+- Source → Destination Integration  
+- Data Pipelines  
 
+### 🧰 Other Tools & Practices
+- Git & GitHub  
+- Jira  
+- SDLC  
+- Research & Development (R&D)
  
- I love collaborating on exciting projects! Feel free to reach out!
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shusom-31&show_icons=true&locale=en&layout=compact" alt="shusom-31" /></p>
+### 🤝 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/shahriar-ali-shusom  
+- **Email:** shahriaralishusom@gmail.com  
 
+---
 
+💡 *I enjoy collaborating on AI, backend, and data-driven projects. Feel free to reach out!*
